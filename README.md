@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nguyen
-- 👀 I’m interested in learning JavaScript.
-- 🌱 I’m currently learning Html
-- 💞️ I’m looking to collaborate on internet
-- 📫 How to reach me -> This is
+- 👋 私はグエンです
+- 👀 JavaScriptが好きなので、勉強しているところです
+- 🌱 将来について、BrSEプロになります。
+- 💞️ 毎日、一所懸命に頑張っていきます。
+- 📫 ( ｀・∀・´)ﾉ　ﾖﾛｼｸ
 
 <!---
 nguyenhai395/nguyenhai395 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
